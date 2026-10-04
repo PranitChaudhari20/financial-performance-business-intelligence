@@ -1,0 +1,18 @@
+Step,RowsAfter,Note
+Raw order lines loaded,9994,20 columns
+Privacy check: no personal-name column,9994,Customer Name removed by 00_prepare_raw.py
+Duplicate check,9994,"0 duplicate Row IDs, 1 rows identical on all other columns"
+Missing values,9994,none in any column
+Dates parsed (M/D/YYYY),9994,0 unparseable values
+Ship date is on or after order date,9994,0 violations
+Numeric columns coerced,9994,"Sales/Profit/Discount as float, Quantity as integer; 0 coercion failures"
+Non-positive revenue lines,9994,0 lines with Sales <= 0
+Non-positive quantity lines,9994,0 lines with Quantity <= 0
+"Discount outside [0, 1)",9994,0 lines
+Category/region text trimmed,9994,"Country is constant ('United States'), so no country dimension exists"
+Discount identity re-tested,9994,implied list price stable for 98.3% of discounted products
+Derived financial fields built,9994,"GrossSales, DiscountValue, Revenue, ImpliedCost, Margin, UnitPrice, IsLossMaking, IsFirstLineOfOrder"
+Lines where implied cost is negative,9994,"0 (0.00%) - profit exceeds revenue on these lines; kept and reported, not removed"
+Time fields built,9994,48 distinct months across 4 years (2014-2017)
+Calendar completeness,9994,"48 of 48 months present - continuous, so period comparisons are valid"
+Discount bands assigned,9994,"fixed documented bands, reproducible in SQL and Excel"

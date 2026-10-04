@@ -1,0 +1,23 @@
+Metric,Value
+Order lines,9994
+Orders,5009
+Units sold,37873
+Distinct products,1862
+Distinct customers,793
+Gross sales (list value),2863935.04
+Discount given,566734.18
+Discount rate (% of gross sales),19.79
+Net revenue,2297200.86
+Implied cost of sales,2010803.84
+Profit,286397.02
+Net margin (% of net revenue),12.47
+Cost-to-revenue ratio (%),87.53
+Average order value,458.61
+Profit per order,57.18
+Average revenue per line,229.86
+Profit per unit,7.56
+Loss-making order lines,1871
+Loss-making order lines (%),18.72
+Profit lost on loss-making lines,-156131.29
+Period covered,2014-01-03 to 2017-12-30
+Months covered,48

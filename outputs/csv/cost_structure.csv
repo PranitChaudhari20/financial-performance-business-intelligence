@@ -1,0 +1,6 @@
+Component,Amount,PctOfGrossSales,PctOfNetRevenue
+Gross sales (list value),2863935.04,100.0,124.67
+less: discount given,-566734.18,-19.79,-24.67
+= Net revenue,2297200.86,80.21,100.0
+less: implied cost of sales,-2010803.84,-70.21,-87.53
+= Profit,286397.02,10.0,12.47

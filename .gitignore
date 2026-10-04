@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# LibreOffice / Excel lock and temp files. A stale .~lock file left behind by an
+# interrupted LibreOffice run blocks every later attempt to open that workbook.
+.~lock.*#
+~$*

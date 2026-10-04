@@ -1,0 +1,4 @@
+Category,Lines,Orders,Units,GrossSales,DiscountValue,Revenue,ImpliedCost,Profit,LossLines,MarginPct,CostToRevenuePct,DiscountRatePct,RevenueSharePct,ProfitSharePct,LossLineSharePct,AvgOrderValue,ProfitPerOrder
+Technology,1847,1544,6939,1038412.12,202258.09,836154.03,690699.08,145454.95,271,17.4,82.6,19.48,36.4,50.79,14.67,541.55,94.21
+Furniture,2121,1764,8028,927239.39,185239.59,741999.8,723548.52,18451.27,714,2.49,97.51,19.98,32.3,6.44,33.66,420.63,10.46
+Office Supplies,6026,3742,22906,898283.53,179236.5,719047.03,596556.23,122490.8,886,17.04,82.96,19.95,31.3,42.77,14.7,192.16,32.73

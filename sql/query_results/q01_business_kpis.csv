@@ -1,0 +1,2 @@
+order_lines,orders,units_sold,distinct_products,distinct_customers,gross_sales,discount_given,discount_rate_pct,net_revenue,implied_cost,profit,net_margin_pct,cost_to_revenue_pct,avg_order_value,profit_per_order,loss_making_lines,loss_making_lines_pct
+9994,5009,37873,1862,793,2863935.04,566734.18,19.79,2297200.86,2010803.84,286397.02,12.47,87.53,458.61,57.18,1871,18.72

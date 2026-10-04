@@ -1,0 +1,13 @@
+MonthNum,2014,2015,2016,2017,MeanIndex,MinIndex,AboveAverageInAllYears,BelowAverageInAllYears,MonthName
+1,35.3,46.3,36.5,72.0,47.5,35.3,False,True,Jan
+2,11.2,30.5,45.3,33.2,30.1,11.2,False,True,Feb
+3,138.0,98.8,101.9,96.4,108.8,96.4,False,False,Mar
+4,70.1,87.2,76.3,59.8,73.4,59.8,False,True,Apr
+5,58.6,76.8,112.3,72.4,80.0,58.6,False,False,May
+6,85.7,63.2,79.5,86.7,78.8,63.2,False,True,Jun
+7,84.1,73.4,77.3,74.1,77.2,73.4,False,True,Jul
+8,69.2,94.1,61.3,103.3,82.0,61.3,False,False,Aug
+9,202.7,164.7,144.6,143.8,164.0,143.8,True,False,Sep
+10,77.9,80.1,117.6,127.3,100.7,77.9,False,False,Oct
+11,194.8,193.8,156.4,193.9,184.7,156.4,True,False,Nov
+12,172.3,191.1,191.1,137.2,172.9,137.2,True,False,Dec
